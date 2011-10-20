@@ -1,7 +1,7 @@
 # jQuery Standards Group
 
-The jQuery Standards Group exists to promote the needs of the web
-developer community and jQuery users in the standards process.
+The jQuery Standards Group exists to give web developers a voice in the
+standards process.
 
 It has three primary goals:
 
