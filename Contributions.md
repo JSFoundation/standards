@@ -44,7 +44,7 @@ This document lists current and past contributions made to standards that has so
 | `Array.from` & `Array.of` | [ES2015][Array.from] | [Dave Herman] & [Rick Waldron] |
 | `Array#find` & `Array#findIndex` | [ES2015][Array#find] | [Rick Waldron] |
 | `Object.assign` | [ES2015][Object.assign] | [Rick Waldron] |
-| Exponentiantion Operator (`**`) | [ES2016][Exp Operator] | [Rick Waldron] |
+| Exponentiation Operator (`**`) | [ES2016][Exp Operator] | [Rick Waldron] |
 | [`Object.values` & `Object.entries`][Object.entries-proposal] | [ES2016][Object.entries] | [Jordan Harband] |
 
 [ES2015]: http://www.ecma-international.org/ecma-262/6.0/index.html
