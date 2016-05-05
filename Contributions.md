@@ -84,8 +84,8 @@ This document lists current and past contributions made to standards that has so
 
 | Proposal | Champion | Stage |
 |----------|----------|-------|
-| [Intl.NumberFormat round option](https://github.com/rxaviers/ecma402-number-format-round-option) | [Rafael Xavier](@rxaviers) | 0 |
-| [Fix 9.2.3 LookupMatcher algorithm](https://github.com/rxaviers/ecma402-fix-lookup-matcher) | [Rafael Xavier](@rxaviers) | 0 |
+| [Intl.NumberFormat round option](https://github.com/rxaviers/ecma402-number-format-round-option) | [Rafael Xavier] | 0 |
+| [Fix 9.2.3 LookupMatcher algorithm](https://github.com/rxaviers/ecma402-fix-lookup-matcher) | [Rafael Xavier] | 0 |
 
 [Dave Herman]: https://github.com/dherman
 [Jafar Husain]: https://github.com/jhusain
