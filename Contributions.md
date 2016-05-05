@@ -87,12 +87,13 @@ This document lists current and past contributions made to standards that has so
 | [Intl.NumberFormat round option](https://github.com/rxaviers/ecma402-number-format-round-option) | [Rafael Xavier](@rxaviers) | 0 |
 | [Fix 9.2.3 LookupMatcher algorithm](https://github.com/rxaviers/ecma402-fix-lookup-matcher) | [Rafael Xavier](@rxaviers) | 0 |
 
-[Jordan Harband]: https://github.com/ljharb
-[Rick Waldron]: https://github.com/rwaldron
-[Leo Balter]: https://github.com/leobalter
-[Scott Gonzalez]: https://github.com/scottgonzalez
-[Rafael Xavier]: https://github.com/rxaviers
-[Kevin Smith]: https://github.com/zenparsing
+[Dave Herman]: https://github.com/dherman
 [Jafar Husain]: https://github.com/jhusain
-[Yehuda Katz]: https://github.com/wycatz
+[Jordan Harband]: https://github.com/ljharb
+[Kevin Smith]: https://github.com/zenparsing
+[Leo Balter]: https://github.com/leobalter
 [Mathias Bynens]: https://github.com/mathiasbynens
+[Rafael Xavier]: https://github.com/rxaviers
+[Rick Waldron]: https://github.com/rwaldron
+[Scott Gonzalez]: https://github.com/scottgonzalez
+[Yehuda Katz]: https://github.com/wycatz
