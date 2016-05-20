@@ -71,11 +71,6 @@ This document lists current and past contributions made to standards that has so
 
 - [TypedArrays/ArrayBuffer/DataView constructor normalization/spec reform](https://github.com/tc39/ecma262/pull/410) ([Leo Balter])
 
-## Test262
-
-- TODO: list contributions
-- participants from the jQuery Foundation: [Rick Waldron], [Leo Balter]
-
 # [ECMAScript Internationalization API Specification (Ecma-402)](https://github.com/tc39/ecma402)
 
 [Rick Waldron] was the editor for the Second Edition and is [still a contributor](http://tc39.github.io/ecma402/) on the current 4th edition.
