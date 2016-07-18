@@ -24,10 +24,6 @@ _Contributions can be found at [this document](https://github.com/jquery-foundat
 
 - Alexander Schmitz: @arschmitz
 
-## Browser Extension Community Group
-
-- Brian Kardell: @bkardell
-
 ## Cascading Style Sheets (CSS) WG
 
 - Brian Kardell: @bkardell
@@ -53,21 +49,9 @@ _Contributions can be found at [this document](https://github.com/jquery-foundat
 - Leo Balter: @leobalter
 - Rick Waldron: @rwaldron
 
-## Touch Events Community Group
-
-- Scott Gonzalez: @scottgonzalez
-
-## Web History Community Group
-
-- Brian Kardell: @bkardell
-
 ## Web Performance WG
 
 - David Methvin: @dmethvin
-
-## Web Platform Incubator Community Group
-
-- Brian Kardell: @bkardell
 
 ## Web Platform WG
 
