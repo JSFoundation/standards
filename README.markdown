@@ -1,24 +1,26 @@
-# jQuery Standards Group
+# JS Foundation Standards Group
 
-The jQuery Standards Group exists to give web developers a voice in the
+*Note: this repository may contain historical references to the jQuery Standards Group. Prior to the fall of 2016, the JS Foundation was known as the jQuery Foundation. Its past participants and contributions are listed here in their historical contexts.*
+
+The JS Foundation Standards Group exists to give web developers a voice in the
 standards process.
 
 It has three primary goals:
 
 * Represent the web developer community, including people involved with any
-  project at the jQuery Foundation, to any web standards body and working group
+  project at the JS Foundation, to any web standards body and working group
   (W3C, ECMA/TC39, WHATWG, Khronos, etc) with the intention of developing and
   improving existing standards to better meet the needs of web developers.
 * Represent the web developer community, including people involved
-  with any project at the jQuery Foundation, to browser vendors with the intent
+  with any project at the JS Foundation, to browser vendors with the intent
   of helping them identify standards that they should prioritize for
   implementing, and proofs of concept that they can build.
-* Help the jQuery Foundation projects adopt new standards and browser features
+* Help the JS Foundation projects adopt new standards and browser features
   as appropriate.
 
 # Code of Conduct
 
-This project adheres to the [jQuery Foundation Code of Conduct](https://jquery.org/conduct/)
+This project adheres to the [JS Foundation Code of Conduct](https://js.foundation/community/code-of-conduct)
 and the same is expected for those who want to participate, applied equally to
 founders, mentors, members and those seeking help and guidance.
 
@@ -58,7 +60,7 @@ group, work group, or browser vendor and link the issue to the remote ticket.
 
 # Why does the web developer community need a forum like this?
 
-The purpose of the jQuery Standards Group is to create a forum where the
+The purpose of the JS Foundation Standards Group is to create a forum where the
 web developer community can come together to discuss shared concerns and
 values.
 
