@@ -1,6 +1,6 @@
 # Contributions
 
-This document lists current and past contributions made to standards that has some relationship with the jQuery Foundation projects.
+This document lists current and past contributions made to standards that have some relationship with Foundation projects.
 
 # W3C
 
